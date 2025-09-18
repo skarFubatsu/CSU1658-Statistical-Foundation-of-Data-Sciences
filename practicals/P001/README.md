@@ -1,8 +1,11 @@
-# Practical Assignment 1 - Pandas and NumPy Fundamentals
+# Practical 1 - Pandas and NumPy Fundamentals
 
 **Registration No.**: `GF202343160`
+
 **Name**: Ajay Sonkar
+
 **GitHub Repository**: [CSU1658-Statistical-Foundation-of-Data-Sciences](https://github.com/skarFubatsu/CSU1658-Statistical-Foundation-of-Data-Sciences)
+
 **Practical Direct Link**: <https://github.com/skarFubatsu/CSU1658-Statistical-Foundation-of-Data-Sciences/tree/main/practicals/P001>
 
 ## Solution Methodology
@@ -41,5 +44,6 @@ dot product for matrix multiplication. Generate a square matrix to obtain
 determinant and (if non‑singular) its inverse, linking numeric linear algebra concepts.
 
 ---
+
 **Note**: The detailed code implementation and results can be found in the
 `notebook.ipynb` file within this directory.
